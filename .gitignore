@@ -11,6 +11,11 @@ venv/
 
 # Others
 *.log
+*.json
+*.csv
+
+
+
 
 # Docker
 docker-compose.yml
