@@ -23,7 +23,7 @@ class WebshareProxyManager:
     def _fetch_proxies(self):
         url = (
             f"{BASE_URL}/proxy/list/"
-            f"?mode=direct&page=1&page_size=25&country_code__in=DE"
+            f"?mode=direct&page=1&page_size=25"
         )
         response = requests.get(url, headers=self.headers)
         if response.status_code == 200:
