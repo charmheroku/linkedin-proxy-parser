@@ -1,6 +1,6 @@
 # LinkedIn Profile Parser 🔍
 
-![Demo Video](https://drive.google.com/file/d/1prPlvoq23gRaj2hiHwWTrQ3H9Pp7XNIz/view?usp=drive_link)
+[Demo Video](https://drive.google.com/file/d/1prPlvoq23gRaj2hiHwWTrQ3H9Pp7XNIz/view?usp=drive_link)
 
 Tool for automatic collection of data from public LinkedIn profiles with support for proxy rotation and bypassing restrictions.
 
