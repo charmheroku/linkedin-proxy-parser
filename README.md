@@ -1,8 +1,12 @@
 # LinkedIn Profile Parser 🔍
-
-[Demo Video](https://drive.google.com/file/d/1prPlvoq23gRaj2hiHwWTrQ3H9Pp7XNIz/view?usp=drive_link)
-
 Tool for automatic collection of data from public LinkedIn profiles with support for proxy rotation and bypassing restrictions.
+
+## Demo interface
+**Before rotation**
+![image](https://github.com/user-attachments/assets/8a48d6ad-9a7c-4c27-80c5-b2a7605def7c)
+
+**After rotation**
+![image](https://github.com/user-attachments/assets/f26545fd-60ad-40b2-a4be-9c795f694a8e)
 
 ## 🌟 Features
 - Parsing key data: profile URL, name, location, IP status
